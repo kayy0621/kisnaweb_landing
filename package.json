@@ -1,0 +1,28 @@
+{
+  "name": "landing-website",
+  "version": "1.0.1",
+  "description": "landing page",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayy0621/kisnaweb_landing.git"
+  },
+  "keywords": [
+    "kisnaweb",
+    "landing",
+    "page",
+    "repository"
+  ],
+  "author": "sunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayy0621/kisnaweb_landing/issues"
+  },
+  "homepage": "https://github.com/kayy0621/kisnaweb_landing#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
